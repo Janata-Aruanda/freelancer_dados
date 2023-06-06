@@ -1,6 +1,6 @@
 # freelancer_dados
 
-Realizei um codigo para um colega  utilizando o pythom como principal ferramenta, e a IDE Google Colab.
+Realizei um codigo para uma colega  utilizando o pythom como principal ferramenta, e a IDE Google Colab.
 
 Esse codigo roda em quaisquer IDEs Python. 
 
