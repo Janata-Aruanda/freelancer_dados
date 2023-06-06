@@ -1,4 +1,4 @@
-# freelancer-_dados
+# freelancer_dados
 
 Realizei um codigo para um colega  utilizando o pythom como principal ferramenta, e a IDE Google Colab.
 
