@@ -1,6 +1,6 @@
 # freelancer_dados
 
-Realizei um codigo para uma colega  utilizando o pythom como principal ferramenta, e a IDE Google Colab.
+Criei um codigo para uma colega  utilizando o python como principal ferramenta, IDE Google Colab e SQLLITE .
 
 Esse codigo roda em quaisquer IDEs Python. 
 
